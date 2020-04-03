@@ -1,0 +1,272 @@
+[
+  {
+    "pattern": "/category/\\d+/",
+    "page_type": "Navigation-page",
+    "page_type_detail": "category_navigation"
+  },
+  {
+    "pattern": "/category/\\d+-\\d+/",
+    "page_type": "List-page",
+    "page_type_detail": "category_list_2"
+  },
+  {
+    "pattern": "/category/\\d+-\\d+-\\d+/",
+    "page_type": "List-page",
+    "page_type_detail": "category_list_3"
+  },
+
+
+  {
+    "pattern": "/gift_set.html",
+    "page_type": "List-page",
+    "page_type_detail": "gift_list"
+  },
+  {
+    "pattern": "/function",
+    "page_type": "List-page",
+    "page_type_detail": "function_list"
+  },
+  {
+    "pattern": "/exclusive_product.htm",
+    "page_type": "List-page",
+    "page_type_detail": "exclusive_list"
+  },
+  {
+    "pattern": "/search",
+    "page_type": "List-page",
+    "page_type_detail": "search_list"
+  },
+  {
+    "pattern": "/hot",
+    "page_type": "List-page",
+    "page_type_detail": "search_hot_list"
+  },
+
+
+
+  {
+    "pattern": "/brand/story-[A-Za-z]+-\\d+/",
+    "page_type": "Campaign-page",
+    "page_type_detail": "brand_story"
+  },
+  {
+    "pattern": "/brand/story-[A-Za-z]+-[A-Za-z]+-\\d+/",
+    "page_type": "Campaign-page",
+    "page_type_detail": "brand_story"
+  },
+  {
+    "pattern": "/brand/story-[A-Za-z]+.+[A-Za-z]+.+[A-Za-z]+-\\d+/",
+    "page_type": "Campaign-page",
+    "page_type_detail": "brand_story"
+  },
+
+
+
+  {
+    "pattern": "/brand/[A-Za-z]+-\\d+/",
+    "page_type": "List-page",
+    "page_type_detail": "brand_list"
+  },
+  {
+    "pattern": "/brand/[A-Za-z]+-[A-Za-z]+-\\d+/",
+    "page_type": "List-page",
+    "page_type_detail": "brand_list"
+  },
+  {
+    "pattern": "/brand/[A-Za-z]+.+[A-Za-z]+.+[A-Za-z]+-\\d+/",
+    "page_type": "List-page",
+    "page_type_detail": "brand_list"
+  },
+
+
+
+  {
+    "pattern": "/brand/\\d+/",
+    "page_type": "List-page",
+    "page_type_detail": "brand_list"
+  },
+
+
+  {
+    "pattern": "/brand/",
+    "page_type": "List-page",
+    "page_type_detail": "brand_navigation"
+  },
+
+
+  {
+    "pattern": "/product/\\d+.html",
+    "page_type": "Product-detail-page",
+    "page_type_detail": "product_detail"
+  },
+  {
+    "pattern": "/cart",
+    "page_type": "Function-page",
+    "page_type_detail": "cart"
+  },
+  {
+    "pattern": "/checkout",
+    "page_type": "Function-page",
+    "page_type_detail": "checkout_order"
+  },
+  {
+    "pattern": "/payment",
+    "page_type": "Function-page",
+    "page_type_detail": "checkout_payment"
+  },
+  {
+    "pattern": "/order-\\d+.html",
+    "page_type": "Function-page",
+    "page_type_detail": "order_detail"
+  },
+  {
+    "pattern": "/myAccount/myCoupon",
+    "page_type": "Function-page",
+    "page_type_detail": "myAccount_coupon"
+  },
+  {
+    "pattern": "/myAccount/address",
+    "page_type": "Function-page",
+    "page_type_detail": "address"
+  },
+  {
+    "pattern": "/myAccount/management",
+    "page_type": "Function-page",
+    "page_type_detail": "myAccount-management"
+  },
+  {
+    "pattern": "/myAccount/integralFlow",
+    "page_type": "Function-page",
+    "page_type_detail": "myAccount-integralFlow"
+  },
+  {
+    "pattern": "/myAccount/myMemberCard",
+    "page_type": "Function-page",
+    "page_type_detail": "member_card"
+  },
+  {
+    "pattern": "/myAccount/modifyPassword",
+    "page_type": "Function-page",
+    "page_type_detail": "myAccount-modifyPassword"
+  },
+  {
+    "pattern": "/myAccount/changeHistory",
+    "page_type": "Function-page",
+    "page_type_detail": "myAccount-changeHistory"
+  },
+  {
+    "pattern": "/myAccount/profile.html",
+    "page_type": "Function-page",
+    "page_type_detail": "user-info"
+  },
+  {
+    "pattern": "/myAccount",
+    "page_type": "Function-page",
+    "page_type_detail": "my_account"
+  },
+  {
+    "pattern": "/login",
+    "page_type": "Function-page",
+    "page_type_detail": "login_in"
+  },
+  {
+    "pattern": "/forgottenPassword",
+    "page_type": "Function-page",
+    "page_type_detail": "forget_password"
+  },
+  {
+    "pattern": "/register",
+    "page_type": "Function-page",
+    "page_type_detail": "register"
+  },
+  {
+    "pattern": "/myMemberCard",
+    "page_type": "Function-page",
+    "page_type_detail": "member_card"
+  },
+  {
+    "pattern": "/resetMyCard",
+    "page_type": "Function-page",
+    "page_type_detail": "change-card"
+  },
+  {
+    "pattern": "/content/help(I|i)nfo/",
+    "page_type": "Function-page",
+    "page_type_detail": "help-center"
+  },
+  {
+    "pattern": "/content/memberclub/",
+    "page_type": "Function-page",
+    "page_type_detail": "memberclub"
+  },
+  {
+    "pattern": "/campaign/[A-Za-z0-9]+/",
+    "page_type": "Campaign-page",
+    "page_type_detail": "campaign_page"
+  },
+  {
+    "pattern": "/weeklyspecials",
+    "page_type": "Campaign-page",
+    "page_type_detail": "weeklyspecials"
+  },
+  {
+    "pattern": "/myOrderList",
+    "page_type": "Function-page",
+    "page_type_detail": "my_order_list"
+  },
+  {
+    "pattern": "/logisticsInfo",
+    "page_type": "Function-page",
+    "page_type_detail": "myaccount_logistics"
+  },
+  {
+    "pattern": "/wxBindCard",
+    "page_type": "Function-page",
+    "page_type_detail": "myaccount_wxBindCard"
+  },
+  {
+    "pattern": "/wxChooseCard",
+    "page_type": "Function-page",
+    "page_type_detail": "myaccount_wxChooseCard"
+  },
+  {
+    "pattern": "/orderPaymentSuccess",
+    "page_type": "Function-page",
+    "page_type_detail": "order_paymentSuccess"
+  },
+  {
+    "pattern": "/updatePassword",
+    "page_type": "Function-page",
+    "page_type_detail": "updatePassword"
+  },
+  {
+    "pattern": "/memberLogin",
+    "page_type": "Function-page",
+    "page_type_detail": "memberLogin"
+  },
+  {
+    "pattern": "/confirmProduct",
+    "page_type": "Function-page",
+    "page_type_detail": "confirmProduct"
+  },
+  {
+    "pattern": "sephora://ecommerce/stores",
+    "page_type": "Function-page",
+    "page_type_detail": "store_locater"
+  },
+  {
+    "pattern": "sephora://ecommerce/logistics",
+    "page_type": "Function-page",
+    "page_type_detail": "logistics_detail"
+  },
+  {
+    "pattern": "sephora://messages",
+    "page_type": "Function-page",
+    "page_type_detail": "message"
+  },
+  {
+    "pattern": "sephora://settings",
+    "page_type": "Function-page",
+    "page_type_detail": "setting"
+  }
+]

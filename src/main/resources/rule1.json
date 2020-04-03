@@ -1,0 +1,5 @@
+{
+  "pattern": "/brand/[A-Za-z]+-\\d+/",
+  "page_type": "List-page",
+  "page_type_detail": "brand_list"
+}
